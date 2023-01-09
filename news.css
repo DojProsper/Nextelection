@@ -1,0 +1,193 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    background-color: rgba(127, 182, 192, 0.123);
+}
+header{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    padding: 1rem;
+}
+.lu{
+    list-style: none;
+    display: flex;
+}
+.il a{
+    padding: 1rem;
+    text-decoration: none;
+    display: flex;
+    color: rgb(15, 15, 73);
+    font-size: 1.1rem;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+    font-weight: 600;
+}
+.il a:hover{
+    color: rgba(152, 240, 20, 0.753);
+}
+.Reep{
+    margin-right: 15rem;
+}
+.mit{
+    padding: 1rem 2rem;
+    background-color: rgb(15, 15, 73);
+    border: none;
+    color: white;
+    border-radius: 2rem;
+    font-size: 1.2rem;
+    font-family: Verdana, Geneva, sans-serif;
+}
+.one{
+    background-color: rgba(5, 5, 78, 0.932);
+    height: 40vh;
+    text-align: center;
+    padding: 5.5rem;
+    color: whitesmoke;
+    font-size: 2.7rem;
+    font-family:Arial, Helvetica, sans-serif;
+    font-weight: 200;
+}
+.date{
+    word-spacing: 0.1rem;
+    color: grey;
+    font-family: cursive;
+}
+
+.two{
+    margin-top: 5rem;
+    margin-bottom: 22rem;
+}
+.three{
+    background-color: rgba(128, 128, 128, 0.123);
+    margin-top: 20rem;
+    bottom: 0px;
+    height: 30vh;
+}
+.four{
+    background-color: rgba(128, 128, 128, 0.123);
+    margin-top: 10rem;
+    height: 25vh;
+}
+.ret{
+    display: flex;
+    justify-content: end;
+    gap: 30rem;
+}
+#lu{
+    list-style: none;
+    display: flex;
+}
+#il a{
+    color: black;
+    margin: 2.5rem 0.4rem;
+    text-align: center;
+    text-decoration: none;
+    display: flex;
+    font-size: 1rem;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+#fa{
+    padding: 2rem;
+    cursor: pointer;
+    word-spacing: 1.5rem;
+    color: limegreen;
+}
+.power{
+    text-align: center;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    font-size: 0.9rem;
+}
+
+.call{
+    background-color: rgb(38, 38, 141);
+    width: 30%;
+    height: 88vh;
+    margin: 3rem 4rem;
+}
+h5{
+    text-align: center;
+    font-size: 1.5rem;
+    color: white;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.vol{
+    background-color: white;
+    border-radius: 1.5rem;
+    padding: 1.5rem;
+    margin: 1.5rem;
+}
+.ret{
+    display: flex;
+}
+#horn{
+    font-size: 3.8rem;
+    color: orange;
+    margin-top: 0.5rem;
+    position: absolute;
+    margin-right: 13rem;
+}
+h3{
+    font-size: 2rem;
+    color: orange;
+    font-family: Verdana, Geneva, sans-serif;
+}
+.kip{
+    text-align: center;
+    color: blue;
+}
+.kwara{
+    font-weight: 600;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+}
+.int{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 1.3rem;
+}
+.reg{
+    color: orange;
+    margin: 1rem;
+    font-size: 1.3rem;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.reach{
+    word-spacing: 1rem;
+    background-color: rgb(23, 23, 131);
+    width: 76%;
+    margin-left: 2.5rem;
+    border-radius: 1rem;
+    padding: 1rem;
+    color: white;
+    font-weight: 500;
+    color: white;
+}
+small{
+    font-family: cursive;
+}
+.news{
+    background-color: rgb(65, 187, 48);
+    position: absolute;
+    left: 5rem;
+    margin-top: 2rem;
+    cursor: progress;
+    font-family:monospace;
+    font-weight: 600;
+    font-size: 1.0rem;
+    padding: 0.4rem 1rem;
+    margin-right: 10rem;
+}
+.low{
+    background-color: white;
+    margin-top: 2.0rem;
+    padding: 2.5rem 0.5rem;
+}
+h2{
+    font-family: Verdana, Geneva, sans-serif;
+    font-size: 1.3rem;
+}
+.text{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 1rem;
+}
